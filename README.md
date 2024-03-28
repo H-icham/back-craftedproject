@@ -162,5 +162,6 @@ Policy Methods > Controller Methods (called immediately before the controller me
 
 - https://laravel.com/docs/10.x/readme 
 - https://cours.brosseau.ovh/cheatsheets/laravel/quick.html
-- https://www.linkedin.com/pulse/laravel-api-authentication-using-sanctum-muhammad-babar-cfecc/
+- https://laravel.com/docs/10.x/controllers
+- https://laravel.com/docs/11.x/eloquent-collections
 
